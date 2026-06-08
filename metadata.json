@@ -1,0 +1,6 @@
+{
+  "name": "minecraft",
+  "description": "A 3D Minecraft clone playable on mobile and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
